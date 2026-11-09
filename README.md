@@ -1,15 +1,15 @@
-# Automatic_SQL_Injection_Testing_Tool
+#  DARKNET-AUTOSQLI
 Automatic Find  Any Website Sql and Auto Exploit site access easily
 
 
-(![image](https://i.ibb.co.com/Z1mwqSwT/2026-05-02-140213.png)
+(![image](https://i.ibb.co.com/rKszz95q/Capture.png)
 
 
 ```bash
 INSTALL COMMAND
-git clone https://github.com/chowdhuryvai/Automatic_SQL_Injection_Testing_Tool.git
-cd Automatic_SQL_Injection_Testing_Tool
-python Automatic_SQL_Injection_Testing_Tool.py
+git clone https://github.com/dcfbdtamim/DARKNET-AUTOSQLI.git
+cd  DARKNET-AUTOSQLI
+python AUTOSQLI.py
 ```
 
 
@@ -73,7 +73,7 @@ http://testphp.vulnweb.com/listproducts.php?cat=1
 
 ==============================================================
    SQLiFinder Pro v3.0 - Starting Scan
-   SC-ETHICAL HACKER IN BANGLADESH
+   DARKNET CYBER FORCE BD - (DCFBD)
 ==============================================================
 Target URL: http://testphp.vulnweb.com/artists.php?artist=1
 Parameter: artist
@@ -120,27 +120,27 @@ sudo apt-get install python3-tk
 brew install python-tk
 
 # Save the file
-nano Automatic_SQL_Injection_Testing_Tool.py
+nano  DARKNET-AUTOSQLI
 # or
-gedit Automatic_SQL_Injection_Testing_Tool.py
+gedit AUTOSQLI.py
 # or
-code Automatic_SQL_Injection_Testing_Toolr.py
+code AUTOSQLI.py
 # Paste the code and save (Ctrl+S)
 
 # Run the tool
-python Automatic_SQL_Injection_Testing_Tool.py
+python AUTOSQLI.py
 # or
-python3 Automatic_SQL_Injection_Testing_Tool.py
+python3 AUTOSQLI.py
 
 # If Permission denied error appears:
-chmod +x Automatic_SQL_Injection_Testing_Tool.py
-python3 Automatic_SQL_Injection_Testing_Tool.py
+chmod +x AUTOSQLI.py
+python3 AUTOSQLI.py
 
 # In Windows Command Prompt or PowerShell:
-python Automatic_SQL_Injection_Testing_Tool.py
+python AUTOSQLI.py
 
 # If there is more than one Python version:
-python3 Automatic_SQL_Injection_Testing_Tool.py
+python3 AUTOSQLI.py
 # or
-py Automatic_SQL_Injection_Testing_Tool.py
+py AUTOSQLI.py
 ```
